@@ -1,8 +1,8 @@
 # data-visualization
 
-![Revenue Forecast](images/monthly_revenue_forecast.png)
+![call center Performance](https://github.com/opadotun-taiwo/data-visualization/blob/main/Call%20center%20visualization.jpg)
 
-![Revenue Forecast](images/monthly_revenue_forecast.png)
+![HR analytics](https://github.com/opadotun-taiwo/data-visualization/blob/main/HR%20analytics%20visualization.jpg)
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=NBsjZGTLCyo)
 
